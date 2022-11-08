@@ -1,0 +1,1 @@
+## This repo has moved to https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles
